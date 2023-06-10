@@ -11,3 +11,8 @@ src/predict.r
 
 Postup ako spustit:
 python3 src/analyze.py
+
+problem je ze ten model v R sa netrenuje
+pre nejaku nahodnu kombinaciu vstupov to niekedy fungovalo
+ale teraz ked tam davame hodnoty ktore sa nam ako tak pacia
+tak to uz netrenuje na dvoch sadach :(
