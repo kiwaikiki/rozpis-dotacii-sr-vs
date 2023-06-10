@@ -8,8 +8,8 @@ protocol.txt
 report.pdf
 src/analyze.ipynb
 src/predict.r
-data/data_to_model_M{1-6}.csv
-data/data_to_model_M{1-6}_predicted.csv
+data/zbehnute/data_to_model_M{1-6}.csv
+data/zbehnute/data_to_model_M{1-6}_rezid.csv
 
 Postup ako spustit:
 pip install pandas scipy openpyxl xlsxwriter
