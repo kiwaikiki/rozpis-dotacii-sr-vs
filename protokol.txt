@@ -6,10 +6,11 @@ https://cms.crepc.sk/
 Odovzdane subory:
 protocol.txt
 report.pdf
-src/analyze.py
+src/analyze.ipynb
 src/predict.r
 
 Postup ako spustit:
+pip install pandas scipy openpyxl xlsxwriter
 python3 src/analyze.py
 
 problem je ze ten model v R sa netrenuje
