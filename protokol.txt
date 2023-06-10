@@ -1,0 +1,13 @@
+Zdroje dat:
+https://www.minedu.sk/33286-sk/rozpis-dotacii-zo-statneho-rozpoctu-verejnym-vysokym-skolam-na-rok-2023/
+https://www.minedu.sk/32743-sk/navrh-predlozeny-na-vyjadrenie-reprezentaciam-vysokych-skol/
+https://cms.crepc.sk/
+
+Odovzdane subory:
+protocol.txt
+report.pdf
+src/analyze.py
+src/predict.r
+
+Postup ako spustit:
+python3 src/analyze.py
